@@ -20,12 +20,13 @@ At the end, write the detailed analysis and the behavior you saw from the experi
 Finding the best performing model using the R Squared, Adjusted R Squared, F-Test, Mean Squared error (MSE), Root mean squared error (RMSE), Mean absolute error (MAE), and Mean absolute percentage error (MAPE) 
 
 Data Dictionary of the dataset
-Company - Car's company
-Name - Name of the car model
-Year - Make year of the car
-Selling Price - Selling price of the car (Dependent variable)
-Kilometer driven - Total kms driven by the car
-Fuel - Cars fuel type
-Seller Type - Type of the seller
-Transmission - If the car is automatic or manual
-Owner - Owner type of the car
+
+**Company** - Car's company
+**Name** - Name of the car model
+**Year** - Make year of the car
+**Selling Price** - Selling price of the car (Dependent variable)
+**Kilometer driven** - Total kms driven by the car
+**Fuel** - Cars fuel type
+**Seller Type** - Type of the seller
+**Transmission** - If the car is automatic or manual
+**Owner** - Owner type of the car
