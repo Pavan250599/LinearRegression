@@ -21,10 +21,10 @@ Finding the best performing model using the R Squared, Adjusted R Squared, F-Tes
 
 Data Dictionary of the dataset
 
-**Company** - Car's company
-**Name** - Name of the car model
-**Year** - Make year of the car
-**Selling Price** - Selling price of the car (Dependent variable)
+* **Company** - Car's company
+* **Name** - Name of the car model
+* **Year** - Make year of the car
+* **Selling Price** - Selling price of the car (Dependent variable)
 **Kilometer driven** - Total kms driven by the car
 **Fuel** - Cars fuel type
 **Seller Type** - Type of the seller
