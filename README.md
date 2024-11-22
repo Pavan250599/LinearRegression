@@ -25,8 +25,8 @@ Data Dictionary of the dataset
 * **Name** - Name of the car model
 * **Year** - Make year of the car
 * **Selling Price** - Selling price of the car (Dependent variable)
-**Kilometer driven** - Total kms driven by the car
-**Fuel** - Cars fuel type
-**Seller Type** - Type of the seller
-**Transmission** - If the car is automatic or manual
-**Owner** - Owner type of the car
+* **Kilometer driven** - Total kms driven by the car
+* **Fuel** - Cars fuel type
+* **Seller Type** - Type of the seller
+* **Transmission** - If the car is automatic or manual
+* **Owner** - Owner type of the car
