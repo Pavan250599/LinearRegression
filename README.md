@@ -16,7 +16,9 @@ Apply the algorithm which you have learnt, i.e., Linear Regression.
 Check if the assumptions of the linear regression are meeting or not.
 Remove the unwanted feature from the model by seeing the P-Value. 
 At the end, write the detailed analysis and the behavior you saw from the experiments. 
+
 Finding the best performing model using the R Squared, Adjusted R Squared, F-Test, Mean Squared error (MSE), Root mean squared error (RMSE), Mean absolute error (MAE), and Mean absolute percentage error (MAPE) 
+
 Data Dictionary of the dataset
 Company - Car's company
 Name - Name of the car model
